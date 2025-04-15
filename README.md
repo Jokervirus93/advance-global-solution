@@ -1,0 +1,2 @@
+cd chemin/vers/advance_global_solution/advance_global_solution
+git init
